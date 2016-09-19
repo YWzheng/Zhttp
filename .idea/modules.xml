@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Zhttp.iml" filepath="$PROJECT_DIR$/Zhttp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zokhttp/zokhttp.iml" filepath="$PROJECT_DIR$/zokhttp/zokhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zvolley/zvolley.iml" filepath="$PROJECT_DIR$/zvolley/zvolley.iml" />
     </modules>
   </component>
 </project>
